@@ -13,18 +13,18 @@ O programa exibe um menu interativo e solicita os números para cada operação 
 
 📌 Tecnologias utilizadas:
 
-HTML
+.HTML
 
-JavaScript
+.JavaScript
 
-💡 Como usar:
+-💡 Como usar:
 
-Ao abrir o código em um navegador, um alerta avisará sobre a calculadora.
+.Ao abrir o código em um navegador, um alerta avisará sobre a calculadora.
 
-O usuário verá um menu para escolher a operação desejada.
+.O usuário verá um menu para escolher a operação desejada.
 
-Após inserir os números, o resultado será exibido em um alert().
+.Após inserir os números, o resultado será exibido em um alert().
 
-O programa continua rodando até o usuário escolher a opção de sair.
+.O programa continua rodando até o usuário escolher a opção de sair.
 
-🚀 Perfeito para quem está começando a aprender JavaScript!
+🚀 Começando a aprender JavaScript!
